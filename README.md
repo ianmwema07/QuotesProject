@@ -25,3 +25,6 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+# QuotesProject
+This is an angular application that collects quotes through a form and they can be upvoted or downvoted. Quotes are later separated depending on whether they have been downvoted or upvoted.
